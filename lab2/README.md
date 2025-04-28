@@ -1,0 +1,1 @@
+This lab 2 contains the lab works related to console application.
